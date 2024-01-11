@@ -6,13 +6,13 @@ const Home = () => {
 
 
     const data=[{
-        image:'../../public/img1.png',
+        image:'/img1.png',
         btnInfoI:'Login as a Coach',
         btnInfoII:'Join as a Coach',
         btnIlink:'/CoachLogin',
         btnIIlink:'/CoachSignup',
       },{
-        image:'../../public/img2.png',
+        image:'/img2.png',
         btnInfoI:'Login as a User',
         btnInfoII:'Join as a User',
         btnIlink:'/UserLogin',
